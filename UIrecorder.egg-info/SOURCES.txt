@@ -1,0 +1,15 @@
+MANIFEST.in
+README.rst
+setup.py
+UIrecorder/FileReader.py
+UIrecorder/FileRecorder.py
+UIrecorder/Models.py
+UIrecorder/Player.py
+UIrecorder/Recorder.py
+UIrecorder/TimerClass.py
+UIrecorder/__init__.py
+UIrecorder.egg-info/PKG-INFO
+UIrecorder.egg-info/SOURCES.txt
+UIrecorder.egg-info/dependency_links.txt
+UIrecorder.egg-info/requires.txt
+UIrecorder.egg-info/top_level.txt

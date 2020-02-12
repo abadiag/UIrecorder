@@ -1,0 +1,15 @@
+Metadata-Version: 1.1
+Name: UIrecorder
+Version: 1.0
+Summary: No readme
+Home-page: UNKNOWN
+Author: Albert Badia
+Author-email: abgsoftdevelop@gmail.com
+License: CopyRight 2020
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.6
