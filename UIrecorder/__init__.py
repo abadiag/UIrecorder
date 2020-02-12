@@ -32,3 +32,4 @@ if __name__ == '__main__':
         recorder.file_name_output = p.File
         print('Performing ' + str(ActionType.RECORD.name) + ' in file ' + p.File)
         recorder.start_recording()
+

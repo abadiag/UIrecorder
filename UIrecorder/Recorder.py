@@ -103,5 +103,3 @@ listener = mouse.Listener(
 listenerKb = keyboard.Listener(
     on_press=on_press,
     on_release=on_release)
-# start_recording()
-
