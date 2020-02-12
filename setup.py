@@ -10,8 +10,8 @@ setup(
     name='UIrecorder',
     version='1.0',
     packages=['UIrecorder'],
-    url='',
-    author='Albert Badia',  # Type in your name,
+    url='https://github.com/abadiag/UIrecorder',
+    author='Albert Badia',
     author_email='abgsoftdevelop@gmail.com',
     license='CopyRight 2020',
     description=README,
@@ -26,5 +26,6 @@ setup(
         'Topic :: Software Development :: Build Tools',
         'License :: OSI Approved :: MIT License',  # Again, pick a license
         'Programming Language :: Python :: 3.6',
-    ]
+    ],
+    entry_points={'console_scripts': ['Package = UIrecorder.__init__']}
 )
